@@ -1,0 +1,40 @@
+.body{
+    background-color: #fdf8ee;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #0a4938;
+    margin: 55px;
+}
+
+.mainheader{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.headers{
+    font-size: 36px;
+    font-style: italic;
+    color:#B44A1A;
+}
+
+.image-center{
+    display: block;
+    margin:auto;
+}
+
+.backtt{
+    text-align: center;
+}
+.video-center{
+    display:block;
+    margin: auto;
+}
+.Moon{
+    font-weight: bold;
+}
+.mid{
+    font-weight: bold;
+    font-style: italic;
+    color:#B44A1A;
+    text-align: center;
+    font-size: 20px;
+}
